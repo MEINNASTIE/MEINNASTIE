@@ -56,11 +56,7 @@ My alien ship crashed, so now I am here to learn more about your society. First 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td><td valign="top" width="33%"> 
 
 <br/>  
 
@@ -68,6 +64,3 @@ My alien ship crashed, so now I am here to learn more about your society. First 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEINNASTIE&hide_border=true&layout=compact" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
