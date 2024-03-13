@@ -1,5 +1,5 @@
 ### <div align="center">Hello there, 
-I am Tyhe, a full-stack freelance developer 👽. 
+I am Tyhe, a full-stack developer 👽. 
 My alien ship crashed, so now I am here to learn more about your society. First stop? Your technologies.  </div>  
   
 
