@@ -1,7 +1,7 @@
 ### <div align="center">Hello there</div>  
   
 
-- ✍️ I’m currently working on Alpha-S Frontend interface / Custom set ups 
+- ✍️ I’m currently working on Alpha-S Frontend interface and Spectrotracer webconfig interface/ Custom set ups 
   
 
 - 🌱 Learning more about Python / C# and SQL 
