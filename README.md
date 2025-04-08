@@ -1,6 +1,3 @@
-### <div align="center">Hello there</div>  
-  
-
 - Currently working on various projects 
   
 
