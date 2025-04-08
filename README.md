@@ -1,11 +1,11 @@
 ### <div align="center">Hello there</div>  
   
 
-- ✍️ I’m currently working on Alpha-S and Spectrotracer interface 
+- Currently working on various projects 
   
 
-- 🌱 Learning more about Python / C# and SQL / curious on C, C++ and embedded systems
+- Learning more about Python / C, C++ / embedded / networking / security
   
 
-- ⚡ Fun fact: I'm an avid tea enthusiast  
+- I love tea. Like really love tea. 
   
